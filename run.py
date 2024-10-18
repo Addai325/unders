@@ -3,4 +3,4 @@ content = file.read()
 file.close()
 
 print(content)
-print('Third commit')
+print('first commit')
