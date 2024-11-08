@@ -4,3 +4,4 @@ file.close()
 
 print(content)
 print('first commit')
+print('committed')
