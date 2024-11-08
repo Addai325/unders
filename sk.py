@@ -1,2 +1,2 @@
 print('sk')
-print('mmc')
+print('mmcs')
